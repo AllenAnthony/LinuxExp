@@ -1,0 +1,16 @@
+#! /bin/bash
+# Project 2 - experiment 4
+# 2016/8/1 qianxufeng ZJU
+
+> ./imfor
+> ./admin
+> ./adminPw
+> ./teacher
+> ./teacherPw
+> ./student
+> ./studentPw
+> ./stuCourse
+> ./hwFinished
+> ./hwFinishing
+> ./course
+> ./homework
